@@ -1,0 +1,28 @@
+{
+    "houses": [
+        {
+            "inputs": { "size": 0, "roomsNum": 0, "floorsNum": 0, "old": 0 },
+            "output": 123
+        },
+        {
+            "inputs": { "size": 25, "roomsNum": 5, "floorsNum": 1, "old": 12 },
+            "output": 2353
+        },
+        {
+            "inputs": { "size": 15, "roomsNum": 4, "floorsNum": 1, "old": 9 },
+            "output": 1583
+        },
+        {
+            "inputs": { "size": 12, "roomsNum": 4, "floorsNum": 1, "old": 3 },
+            "output": 1433
+        },
+        {
+            "inputs": { "size": 15, "roomsNum": 5, "floorsNum": 2, "old": 12 },
+            "output": 1753
+        },
+        {
+            "inputs": { "size": 30, "roomsNum": 10, "floorsNum": 3, "old": 17 },
+            "output": 3353
+        }
+    ]
+}
